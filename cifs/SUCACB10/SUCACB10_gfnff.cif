@@ -1,0 +1,30 @@
+data_C2H3O2
+_audit_creation_method 'chmpy python library version 1.0a1'
+_cell_length_a 4.689881
+_cell_length_b 9.737022
+_cell_length_c 8.141875
+_cell_angle_alpha 90.0
+_cell_angle_beta 139.612699
+_cell_angle_gamma 90.0
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+                   1 -x,-y,-z
+                   2 +x,+y,+z
+                   3 -x,1/2+y,1/2-z
+                   4 +x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C C       0.179736000000       0.000851000000       0.145632000000       1.000000000000
+C C       0.006623000000      -0.025365000000       0.241868000000       1.000000000000
+O O       0.931386000000       0.855376000000       0.253277000000       1.000000000000
+O O      -0.062176000000       0.084869000000       0.313893000000       1.000000000000
+H H       0.435964000000      -0.077480000000       0.229404000000       1.000000000000
+H H       1.360794000000       0.100250000000       1.222097000000       1.000000000000
+H H      -0.007501000000       0.176877000000       0.283832000000       1.000000000000
+#END

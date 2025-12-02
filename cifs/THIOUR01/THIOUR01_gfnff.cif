@@ -1,0 +1,32 @@
+data_CH2NS
+_audit_creation_method 'chmpy python library version 1.0a1'
+_cell_length_a 9.917525
+_cell_length_b 8.528178
+_cell_length_c 3.664338
+_cell_angle_alpha 90.0
+_cell_angle_beta 90.0
+_cell_angle_gamma 90.0
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+                   1 -x,-y,-z
+                   2 +x,+y,+z
+                   3 -x,1/2+y,-z
+                   4 +x,1/2-y,+z
+                   5 1/2-x,-y,1/2+z
+                   6 1/2+x,+y,1/2-z
+                   7 1/2-x,1/2+y,1/2+z
+                   8 1/2+x,1/2-y,1/2-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C C       0.111190000000       0.250000000000       1.008082000000       1.000000000000
+H H       0.254616000000       0.385635000000       0.739863000000       1.000000000000
+H H       0.119660000000       0.490478000000       0.885222000000       1.000000000000
+N N       0.173429000000       0.387756000000       0.917185000000       1.000000000000
+S S       0.957908000000       0.250000000000       0.204168000000       1.000000000000
+#END
